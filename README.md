@@ -1,4 +1,4 @@
-# Machine Learning for Human Rights – Article Critique
+# Machine Learning for Human Rights – Article Critique Writing
 
 This repository contains a detailed critique of the HURIDOCS article titled **"Machine Learning for Human Rights Information."** The critique evaluates the article's strengths, weaknesses, and overall contribution to the intersection of human rights and artificial intelligence.
 
